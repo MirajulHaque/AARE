@@ -1,0 +1,42 @@
+# =========================
+# Java Build Artifacts
+# =========================
+*.class
+*.jar
+*.war
+*.ear
+
+# Build directories
+build/
+target/
+out/
+
+# =========================
+# Logs & Temporary Files
+# =========================
+*.log
+*.tmp
+*.swp
+*~
+
+# =========================
+# IDE / Editor Files
+# =========================
+.vscode/
+.idea/
+*.iml
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# Linux trash
+.Trash-*
+
+# =========================
+# Burp / Testing Artifacts
+# =========================
+*.burp
+*.session
