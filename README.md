@@ -122,24 +122,16 @@ jar cf build/AARE.jar *.class
 
 ## 📸 Screenshots
 
-### AARE Branding Banner
-
-![AARE Banner](assets/banner.png)
-
-### Extension Configuration Interface
-
-![AARE Configuration](assets/aare_configuration.png)
-
 ### Failed Request Without Proper Dynamic Token Handling
-
 ![Failed Attempt](assets/failed_attempt_on_repeater.png)
 
-### Successful Request After Dynamic Token Regeneration
+### Extension Configuration Interface
+![AARE Configuration](assets/aare_configuration.png)
 
+### Successful Request After Dynamic Token Regeneration
 ![Successful Attempt](assets/success_attempt_on_repeater.png)
 
 ### Built-in Logging Panel and Clear Logs Feature
-
 ![Clear Logs Feature](assets/aare_clear_logs_feature.png)
 
 
